@@ -307,11 +307,11 @@ baner = str(baner)
 baner = baner.replace("0","")
 logo=f""" {baner} \033[1;37m
 ××××××××××××××××××××××××××××××××××××××××××××
-\033[1;37m❲\033[38;5;46m+\033[1;37m❳ DEVELOPER :Md Yasin Ahmed emon 
-\033[1;37m❲\033[38;5;46m+\033[1;37m❳ GITHUB    : Emon1214
+\033[1;37m❲\033[38;5;46m+\033[1;37m❳ DEVELOPER :Md Tanin
+\033[1;37m❲\033[38;5;46m+\033[1;37m❳ GITHUB    : t4n1nc9b4r 
 \033[1;37m❲\033[38;5;46m+\033[1;37m❳ VERSION   : 2.0
 \033[1;37m❲\033[38;5;46m+\033[1;37m❳ PROJECT   : SMS BOMBING 
-\033[1;37m❲\033[38;5;46m+\033[1;37m❳ FACEBOOK  : md Yasin Ahmed emon 
+\033[1;37m❲\033[38;5;46m+\033[1;37m❳ FACEBOOK  : Hackers Tanin
 ××××××××××××××××××××××××××××××××××××××××××××"""
 print(logo)
 print("[01] START SMS BOMBING ")
